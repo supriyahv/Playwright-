@@ -1,0 +1,10 @@
+Playwright
+JavaScript, TypeScript, or Python
+End-to-End (E2E) Testing
+UI Automation Testing
+Functional & Regression Testing
+Cross-Browser Testing
+Page Object Model (POM)
+Test Design Patterns
+Fixtures & Hooks
+API Testing & API Mocking
