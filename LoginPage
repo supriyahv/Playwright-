@@ -1,2 +1,4 @@
 public class Login{
+
+await page.goto("www.amazon.in")
 }
